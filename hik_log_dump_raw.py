@@ -17,7 +17,7 @@ Usage
 
 Positional arguments
 -------------------
-HOST   – IP/host name of the NVR (e.g. 10.97.71.200)
+HOST   – IP/host name of the NVR (e.g. 10.10.10.10)
 USER   – user name (Digest auth)
 START  – start of time span (YYYY‑MM‑DD *or* full ISO «YYYY‑MM‑DDTHH:MM»)
 END    – end   of time span (same format as START, inclusive)
