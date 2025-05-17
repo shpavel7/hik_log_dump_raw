@@ -14,7 +14,6 @@ A simple Python script to extract and dump raw logs from Hikvision devices.
 - `requests` library
 
 
-
 ## Usage
 
 ```bash
